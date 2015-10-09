@@ -1,0 +1,51 @@
+Item Number 1
+Description	Automobile
+Manufacturer	Mercedes
+Model Number	SL-350
+Serial Number	1235
+Purchase Date	2008
+Purchase Price	$40,000.00
+Quantity Avail.	1
+Picture File	mercedes.jpg
+
+Item Number 2
+Description	Camera
+Manufacturer	Nikon
+Model Number	ABC-200
+Serial Number	1236
+Purchase Date	2010
+Purchase Price	$300.00
+Quantity Avail.	1
+Picture File	nikon.jpg
+
+Item Number 3
+Description	Refrigerator
+Manufacturer	LG
+Model Number	Cool-One
+Serial Number	AB1234
+Purchase Date	2009
+Purchase Price	$1,600.00
+Quantity Avail.	1
+Picture File	refrigerator.jpg
+
+Item Number 4
+Description	Television
+Manufacturer	Sony
+Model Number	Viao
+Serial Number	GF89X
+Purchase Date	2010
+Purchase Price	$700.00
+Quantity Avail.	1
+Picture File	television.jpg
+
+Item Number 5
+Description	Hammer
+Manufacturer	Stanley
+Model Number	Fat Max
+Serial Number	none
+Purchase Date	2012
+Purchase Price	$30.00
+Quantity Avail.	1
+Picture File	none.jpg
+
+Total Inventory:	$42,630.00
